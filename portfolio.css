@@ -125,6 +125,18 @@
             color: white;
         }
 
+        .job-board-project {
+            width: 600px;
+            height: 600px;
+            background: white;
+            position: relative;
+            border-radius: 20px;
+            background-image: url("images/LiveWirePO.jpg");
+            margin: 20px;
+            background-size: cover;
+            background-position: center;
+        }
+
         .livewire-project {
             width: 600px;
             height: 600px;
